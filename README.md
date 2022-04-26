@@ -1,4 +1,4 @@
-# New Project
+# Snowpack Buffer Bundle
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
